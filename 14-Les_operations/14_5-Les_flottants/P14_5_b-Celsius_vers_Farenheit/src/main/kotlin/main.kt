@@ -1,3 +1,5 @@
 fun main() {
-    // put your code here
+    val celsius: Double = readln().toDouble()
+
+    println(celsius * 1.8 + 32)
 }

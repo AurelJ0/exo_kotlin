@@ -9,5 +9,4 @@ fun main() {
         println("divided by 5")}
     if (num % 6 == 0) {
         println("divided by 6")}
-
 }

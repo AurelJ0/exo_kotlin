@@ -1,8 +1,8 @@
 fun main() {
-    val var: String = "Kotlin "
-    val part2 = is a cross-platform
-    String val = ", statically typed, "
-    val part4 = "general-purpose programming language with type coercion."
+    val part1: String = "Kotlin "
+    val part2: String = "is a cross-platform"
+    val part3: String = ", statically typed, "
+    val part4: String = "general-purpose programming language with type coercion."
 
     print(part1)
     print(part2)

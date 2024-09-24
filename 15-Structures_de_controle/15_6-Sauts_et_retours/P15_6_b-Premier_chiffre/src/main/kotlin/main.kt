@@ -1,3 +1,12 @@
 fun main() {
-    // put your code here
+    val num = ('1'..'9').toSet()
+    val inputDigitsAndChars = readln().toList()
+    for (i in inputDigitsAndChars) {
+        if (num.contains(i)) {
+            println(i)
+            break
+        }
+        else
+            continue
+    }
 }

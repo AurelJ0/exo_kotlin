@@ -1,3 +1,8 @@
 fun main() {
-    // write your code here
+    val letterOne = readln().lowercase()
+    val letterTwo = readln().lowercase()
+
+    println(letterOne == letterTwo)
+
+
 }

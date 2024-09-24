@@ -1,4 +1,3 @@
-
 fun main() {
     val empiresShip = readln().toDouble()
     val alliancesShip = readln().toDouble()

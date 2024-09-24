@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c8d96c65-e258-4971-a840-f7cb7b74531e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../03-Base_programmation_Kotlin/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../03-Base_programmation_Kotlin/.idea/03-Base_programmation_Kotlin.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../03-Base_programmation_Kotlin/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../03-Base_programmation_Kotlin/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../03-Base_programmation_Kotlin/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../03-Base_programmation_Kotlin/P03_c-Plusieurs_instructions/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../04-Les_variables/P04_a-Corriger_le_bug/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../04-Les_variables/P04_b-Tres_grand_nombre/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../04-Les_variables/P04_c-Corriger_programme/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../04-Les_variables/P04_e-var_ou_val/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../05-Les_constantes/P05_a-Corriger_erreur_code/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../06-Les_commentaires/P06_a-Commenter_quelques_lignes/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../06-Les_commentaires/P06_b-Commentaires_oublies/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../09-Sortie_standard/P09_a-Besoin_apprendre_Kotlin/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../09-Sortie_standard/P09_b-Corriger_code/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../10-Les_types/10_2-Classification_types_basiques/P10_2_a-Valeurs_max_entiers/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../10-Les_types/10_3-Conversions_types/P10_3_a-Detecteur_mensonge/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../10-Les_types/10_3-Conversions_types/P10_3_b-Convertisseur_simple/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../10-Les_types/10_3-Conversions_types/P10_3_c-Force_sup_empire/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../11-Les_strings/11_1-Bases_type_string/P11_1_a-Resolver_probleme/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../12-Entree_std_avec_Java_Scanner/P12_a-Quatre_nombres/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../14-Les_operations/14_1-Operations_logiques/P14_1_b-Coder_expression_bool/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../14-Les_operations/14_4-Entiers_en_action/P14_4_d-Somme_des_chiffres/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../14-Les_operations/14_4-Entiers_en_action/P14_4_e-Formatage_date/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../14-Les_operations/14_5-Les_flottants/P14_5_a-Evaluer_expression/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../14-Les_operations/14_5-Les_flottants/P14_5_b-Celsius_vers_Farenheit/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../14-Les_operations/14_6-Operateurs_comparaison/P14_6_a-Verifier_valeur/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../14-Les_operations/14_6-Operateurs_comparaison/P14_6_b-Tailles_croissantes_decroissantes/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../14-Les_operations/14_7-Les_caracteres/P14_7_a-Comparaison_de_caracteres/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../14-Les_operations/14_7-Les_caracteres/P14_7_b-Caractere_precedent/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../15_1-if/P15_1_b-Sommeil_et_sante/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../15_3-Repetition_blocs/P15_3_a-Compter_nombres_positifs/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../15_3-Repetition_blocs/P15_3_b-Notes/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../15_4-while_ET_do_while/P15_4_a-Calcul_interets/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../15_4-while_ET_do_while/P15_4_b-Somme_valeurs/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01-Presentation_Kotlin/P01_a-Hello_Kotlin/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../01-Presentation_Kotlin/P01_a-Hello_Kotlin/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03-Base_programmation_Kotlin/P03_a-Verite_eternel/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../03-Base_programmation_Kotlin/P03_a-Verite_eternel/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03-Base_programmation_Kotlin/P03_a-Verite_eternel/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../03-Base_programmation_Kotlin/P03_a-Verite_eternel/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03-Base_programmation_Kotlin/P03_a-Verite_eternel/src/main/kotlin/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../03-Base_programmation_Kotlin/P03_a-Verite_eternel/src/main/kotlin/main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03-Base_programmation_Kotlin/P03_b-I_like_Kotlin/src/main/kotlin/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../03-Base_programmation_Kotlin/P03_b-I_like_Kotlin/src/main/kotlin/main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03-Base_programmation_Kotlin/P03_c-Plusieurs_instructions/src/main/kotlin/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../03-Base_programmation_Kotlin/P03_c-Plusieurs_instructions/src/main/kotlin/main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04-Les_variables/P04_a-Corriger_le_bug/src/main/kotlin/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../04-Les_variables/P04_a-Corriger_le_bug/src/main/kotlin/main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04-Les_variables/P04_b-Tres_grand_nombre/src/main/kotlin/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../04-Les_variables/P04_b-Tres_grand_nombre/src/main/kotlin/main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04-Les_variables/P04_c-Corriger_programme/src/main/kotlin/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../04-Les_variables/P04_c-Corriger_programme/src/main/kotlin/main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04-Les_variables/P04_d-Echange/src/main/kotlin/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../04-Les_variables/P04_d-Echange/src/main/kotlin/main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04-Les_variables/P04_e-var_ou_val/src/main/kotlin/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../04-Les_variables/P04_e-var_ou_val/src/main/kotlin/main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-Les_constantes/P05_a-Corriger_erreur_code/src/main/kotlin/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../05-Les_constantes/P05_a-Corriger_erreur_code/src/main/kotlin/main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06-Les_commentaires/P06_a-Commenter_quelques_lignes/src/main/kotlin/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../06-Les_commentaires/P06_a-Commenter_quelques_lignes/src/main/kotlin/main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06-Les_commentaires/P06_b-Commentaires_oublies/src/main/kotlin/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../06-Les_commentaires/P06_b-Commentaires_oublies/src/main/kotlin/main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09-Sortie_standard/P09_a-Besoin_apprendre_Kotlin/src/main/kotlin/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../09-Sortie_standard/P09_a-Besoin_apprendre_Kotlin/src/main/kotlin/main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09-Sortie_standard/P09_b-Corriger_code/src/main/kotlin/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../09-Sortie_standard/P09_b-Corriger_code/src/main/kotlin/main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10-Les_types/10_1-Types_des_donnees/P10_1_a-Corriger_programme/src/main/kotlin/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../10-Les_types/10_1-Types_des_donnees/P10_1_a-Corriger_programme/src/main/kotlin/main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10-Les_types/10_1-Types_des_donnees/P10_1_b-Penser_compilateur/src/main/kotlin/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../10-Les_types/10_1-Types_des_donnees/P10_1_b-Penser_compilateur/src/main/kotlin/main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10-Les_types/10_1-Types_des_donnees/P10_1_c-Editer_le/src/main/kotlin/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../10-Les_types/10_1-Types_des_donnees/P10_1_c-Editer_le/src/main/kotlin/main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10-Les_types/10_3-Conversions_types/P10_3_c-Force_sup_empire/src/main/kotlin/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../10-Les_types/10_3-Conversions_types/P10_3_c-Force_sup_empire/src/main/kotlin/main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../11-Les_strings/11_1-Bases_type_string/P11_1_a-Resolver_probleme/src/main/kotlin/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../11-Les_strings/11_1-Bases_type_string/P11_1_a-Resolver_probleme/src/main/kotlin/main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../11-Les_strings/11_3-Travailler_avec_strings/P11_3_b-Informations_personne/src/main/kotlin/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../11-Les_strings/11_3-Travailler_avec_strings/P11_3_b-Informations_personne/src/main/kotlin/main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../11-Les_strings/11_3-Travailler_avec_strings/P11_3_c-Dizaine_un_nombre/src/main/kotlin/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../11-Les_strings/11_3-Travailler_avec_strings/P11_3_c-Dizaine_un_nombre/src/main/kotlin/main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../12-Entree_std_avec_Java_Scanner/P12_a-Quatre_nombres/src/main/kotlin/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../12-Entree_std_avec_Java_Scanner/P12_a-Quatre_nombres/src/main/kotlin/main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../14-Les_operations/14_1-Operations_logiques/P14_1_b-Coder_expression_bool/src/main/kotlin/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../14-Les_operations/14_1-Operations_logiques/P14_1_b-Coder_expression_bool/src/main/kotlin/main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../14-Les_operations/14_1-Operations_logiques/P14_a-Invitations_et_cadeaux/src/main/kotlin/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../14-Les_operations/14_1-Operations_logiques/P14_a-Invitations_et_cadeaux/src/main/kotlin/main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../14-Les_operations/14_4-Entiers_en_action/P14_4_a-Partager_noisettes/src/main/kotlin/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../14-Les_operations/14_4-Entiers_en_action/P14_4_a-Partager_noisettes/src/main/kotlin/main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../14-Les_operations/14_4-Entiers_en_action/P14_4_b-Noisettes_restantes/src/main/kotlin/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../14-Les_operations/14_4-Entiers_en_action/P14_4_b-Noisettes_restantes/src/main/kotlin/main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../14-Les_operations/14_4-Entiers_en_action/P14_4_c-Nombre_pair_suivant/src/main/kotlin/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../14-Les_operations/14_4-Entiers_en_action/P14_4_c-Nombre_pair_suivant/src/main/kotlin/main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../14-Les_operations/14_4-Entiers_en_action/P14_4_d-Somme_des_chiffres/src/main/kotlin/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../14-Les_operations/14_4-Entiers_en_action/P14_4_d-Somme_des_chiffres/src/main/kotlin/main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../14-Les_operations/14_4-Entiers_en_action/P14_4_e-Formatage_date/src/main/kotlin/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../14-Les_operations/14_4-Entiers_en_action/P14_4_e-Formatage_date/src/main/kotlin/main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../14-Les_operations/14_5-Les_flottants/P14_5_a-Evaluer_expression/src/main/kotlin/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../14-Les_operations/14_5-Les_flottants/P14_5_a-Evaluer_expression/src/main/kotlin/main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../14-Les_operations/14_5-Les_flottants/P14_5_b-Celsius_vers_Farenheit/src/main/kotlin/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../14-Les_operations/14_5-Les_flottants/P14_5_b-Celsius_vers_Farenheit/src/main/kotlin/main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../14-Les_operations/14_6-Operateurs_comparaison/P14_6_a-Verifier_valeur/src/main/kotlin/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../14-Les_operations/14_6-Operateurs_comparaison/P14_6_a-Verifier_valeur/src/main/kotlin/main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../14-Les_operations/14_6-Operateurs_comparaison/P14_6_b-Tailles_croissantes_decroissantes/src/main/kotlin/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../14-Les_operations/14_6-Operateurs_comparaison/P14_6_b-Tailles_croissantes_decroissantes/src/main/kotlin/main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../14-Les_operations/14_7-Les_caracteres/P14_7_a-Comparaison_de_caracteres/src/main/kotlin/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../14-Les_operations/14_7-Les_caracteres/P14_7_a-Comparaison_de_caracteres/src/main/kotlin/main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../14-Les_operations/14_7-Les_caracteres/P14_7_b-Caractere_precedent/src/main/kotlin/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../14-Les_operations/14_7-Les_caracteres/P14_7_b-Caractere_precedent/src/main/kotlin/main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../15_1-if/P15_1_b-Sommeil_et_sante/src/main/kotlin/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../15_1-if/P15_1_b-Sommeil_et_sante/src/main/kotlin/main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../15_1-if/P15_1_c-nombre_diviseurs/src/main/kotlin/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../15_1-if/P15_1_c-nombre_diviseurs/src/main/kotlin/main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../15_2-when/P15_2_a-Harry_Potter/src/main/kotlin/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../15_2-when/P15_2_a-Harry_Potter/src/main/kotlin/main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../15_2-when/P15_2_b-Direction/src/main/kotlin/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../15_2-when/P15_2_b-Direction/src/main/kotlin/main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../15_3-Repetition_blocs/P15_3_a-Compter_nombres_positifs/src/main/kotlin/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../15_3-Repetition_blocs/P15_3_a-Compter_nombres_positifs/src/main/kotlin/main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../15_3-Repetition_blocs/P15_3_b-Notes/src/main/kotlin/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../15_3-Repetition_blocs/P15_3_b-Notes/src/main/kotlin/main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../15_4-while_ET_do_while/P15_4_a-Calcul_interets/src/main/kotlin/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../15_4-while_ET_do_while/P15_4_a-Calcul_interets/src/main/kotlin/main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../15_4-while_ET_do_while/P15_4_b-Somme_valeurs/src/main/kotlin/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../15_4-while_ET_do_while/P15_4_b-Somme_valeurs/src/main/kotlin/main.kt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2mQdg8pIdFCXXLgfWrTMa51uPYt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/user/Documents/Travail/exo_kotlin/15-Structures_de_controle/15_5-Boucle_for",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.22855.74" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.22855.74" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c8d96c65-e258-4971-a840-f7cb7b74531e" name="Changes" comment="" />
+      <created>1727012841648</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1727012841648</updated>
+      <workItem from="1727012842771" duration="60000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

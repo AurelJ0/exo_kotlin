@@ -1,3 +1,7 @@
 fun main() {
-    // write your code here
+    val input = readln().split(" ")
+    for (char in input) {
+        val previousChar = char[0] - 1
+        print("$previousChar ")
+    }
 }

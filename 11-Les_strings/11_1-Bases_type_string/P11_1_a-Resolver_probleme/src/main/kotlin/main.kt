@@ -1,6 +1,6 @@
 
 fun main() {
-    val name = 10 + "years' + "ago" we were "s in London"
+    val name = "10 years ago we were in London"
 
     println(name)
 }

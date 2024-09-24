@@ -2,7 +2,7 @@ fun main() {
     val N = readln().toInt()
     val K = readln().toInt()
 
-    val res = N % K
+    val res = K / N
 
     println(res)
 }

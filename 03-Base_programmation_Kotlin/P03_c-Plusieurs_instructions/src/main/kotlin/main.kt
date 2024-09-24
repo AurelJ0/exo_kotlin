@@ -1,4 +1,5 @@
 fun main() {
-    println("Learn Kotlin")
+    println("Learn")
+    println("Kotlin")
 }
 

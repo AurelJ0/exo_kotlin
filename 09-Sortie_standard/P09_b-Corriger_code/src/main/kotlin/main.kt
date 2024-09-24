@@ -1,8 +1,8 @@
 fun main() {
-    println(1, 2, 3...)
-    printLin("Line print here ")
-    lnPrint(42)
-    printLn("Pay attention to")
+    println("1, 2, 3...")
+    print("Line print here ")
+    println(42)
+    print("Pay attention to ")
     println("syntax")
 }
 

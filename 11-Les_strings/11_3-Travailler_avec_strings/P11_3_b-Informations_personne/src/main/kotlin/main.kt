@@ -3,5 +3,5 @@ fun main() {
     val prenom = readln()
     val age = readln().toInt()
 
-    println("${nom.first()}. $prenom, $age years old")
+    println("${nom[0]}. $prenom, $age years old")
 }
