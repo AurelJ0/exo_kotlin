@@ -1,5 +1,5 @@
-fun tip(bill: Int, percentage: Int): Int {
-    // TODO
+fun tip(bill: Int, percentage: Int=10): Int {
+
 }
 
 fun main() {
