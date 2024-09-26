@@ -7,5 +7,5 @@ fun main() {
     }
     // Do not change lines above
     // Write your code here
-
+    println(inputList[2].joinToString(separator = ", "))
 }

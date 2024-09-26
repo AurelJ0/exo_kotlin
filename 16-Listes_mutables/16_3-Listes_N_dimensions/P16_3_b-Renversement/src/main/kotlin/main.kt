@@ -7,5 +7,6 @@ fun main() {
         inputList.add(strings)
     }
     // write your code here
-
+    val resultList = mutableListOf(inputList.last(), inputList.first())
+    println(resultList)
 }

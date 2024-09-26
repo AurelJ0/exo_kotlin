@@ -8,7 +8,7 @@ fun main() {
         for (i in numbers) {
             sum += i
         }
-        numbers.add(sum)
+        numbers.add(0, sum)
     }
 
 
