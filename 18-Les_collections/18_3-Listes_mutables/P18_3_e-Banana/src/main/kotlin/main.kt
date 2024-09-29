@@ -3,6 +3,12 @@ fun main() {
 }
 
 fun solution(strings: MutableList<String>, str: String): MutableList<String> {
-    // put your code here
+    for (i in strings.indices) {
+        if (strings[i] == str) {
+            strings.removeAt(i)
+            strings.add(i, "Banana")
+        }
+    }
+    return strings
 }
 

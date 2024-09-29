@@ -4,7 +4,7 @@ fun main() {
 
     // fix the code below
     if (distance < 0) {
-        val distance = -distance
+        distance = -distance
     }
     totalDistance += distance
     println(totalDistance)

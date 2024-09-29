@@ -3,5 +3,10 @@ fun main() {
 }
 
 fun solution(strings: List<String>, str: String): Int {
-    // put your code here
+    var res = 0
+    for (i in strings) {
+        if (i == str)
+            res++
+    }
+    return res
 }
